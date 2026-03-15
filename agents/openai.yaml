@@ -1,0 +1,5 @@
+version: 1
+interface:
+  display_name: Self Improvement
+  short_description: Log learnings, recurring errors, and feature gaps for future Codex sessions.
+  default_prompt: Capture durable learnings from errors, corrections, and repeated workflow issues, then promote stable patterns into AGENTS.md or project docs.
